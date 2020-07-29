@@ -12,7 +12,7 @@
 	<body>
         <header>
 			<figure>
-				<img src ="banner.png" height="100px" width="100%">
+				<img src ="banner.png" width="100%">
 			</figure>
 		</header>
         <!--<nav>
